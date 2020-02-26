@@ -1,0 +1,155 @@
+[
+  {
+    "Photo": "photo/aamina.jpg",
+    "Name": "Aamina Khatib",
+    "Year": 2020,
+    "Program": "Jr Software Developer",
+    "Github link": "https://aaminakhatib.github.io",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/anele.jpg",
+    "Name": "Anele Noirita",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://anoroita.github.io/",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/tumi.jpg",
+    "Name": "Boitumelo Mosala",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://tumi175.github.io",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/cecil.jpg",
+    "Name": "Cecil Chris-Esema",
+    "Year": 2020,
+    "Program": "Sec",
+    "Github link": "https://chrislifeandtimes.github.io/HelloChris/",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/cedrick.jpg",
+    "Name": "Cedrick Platt",
+    "Year": 2020,
+    "Program": "Sec",
+    "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
+    "[skills]": "[C++, C#, Python]",
+    "[interestedlob]": "[Security]"
+  },
+  {
+    "Photo": "photo/devin.jpg",
+    "Name": "Devin Azzie",
+    "Year": 2020,
+    "Program": "NTT Secure Coding Academy",
+    "Github link": "https://DevOps901.github.io",
+    "[skills]": "Python, Javascript, HTML, CSS",
+    "[interestedlob]": "[Apps and Mobility]"
+  },
+  {
+    "Photo": "photo/dolly.jpg",
+    "Name": "Dolly Ngwenya",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "Github link": "https://dolly123276.github.io",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/ehi.jpg",
+    "Name": "Ehimemhem Okharedia",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "Github link": "https://ehimee.github.io/MyBio/",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/jesse.jpg",
+    "Name": "Jesse Thomas",
+    "Year": 2020,
+    "Program": "Sec",
+    "Github link": "https://display-jesse.github.io/header/",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/gift.jpg",
+    "Name": "Lehlohonolo Mokoena (Gift)",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://giftbhm.github.io/giftbhm-FirstRep/",
+    "[skills]": "[C#,Java,HTML,CSS,WPF,Windows Forms, Android Development, Oracle SQL]",
+    "[interestedlob]": "[Apps, Data Services BI ]"
+  },
+  {
+    "Photo": "photo/marlene.jpg",
+    "Name": "Marléne Eddie",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "Github link": "https://marleneeddie.github.io",
+    "[skills]": "[Problem solving, Microsoft Word, Microsoft Excel, SQL]",
+    "[interestedlob]": "[Not sure yet]"
+  },
+  {
+    "Photo": "photo/ameen.jpg",
+    "Name": "Mohammed Ameen Mayet",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://moeameen1.github.io/Mohammed-Ameen-Mayet/",
+    "[skills]": "[MYSQL, Python, HTML, Tableau, PowerBI, Microsoft Azure]",
+    "[interestedlob]": "[Data Analytics/ BI Analyst]"
+  },
+  {
+    "Photo": "photo/ mohen.jpg",
+    "Name": "Mohen Koseelan",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://mohen97.github.io",
+    "[skills]": "[Pulling on git, Mathematical vibes, Problem creation, Afrikaans, Editing people's skills]",
+    "[interestedlob]": "[Data Science]"
+  },
+  {
+    "Photo": "photo/molefi.jpg",
+    "Name": "Molefi Ngakane",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://vice004.github.io/",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/phindulo.jpg",
+    "Name": "Phindulo Nedzingahe",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "Github link": "https://dajuiceinf.github.io",
+    "[skills]": "backendCoding",
+    "[interestedlob]": "[BusinessAnalysis]"
+  },
+  {
+    "Photo": "photo/scelo.jpg",
+    "Name": "Scelo Nkabinde",
+    "Year": 2020,
+    "Program": "IW",
+    "Github link": "https://scelonkabinde.github.io/Scelo",
+    "[skills]": "[skills]",
+    "[interestedlob]": "[interested lob]"
+  },
+  {
+    "Photo": "photo/zintle.jpg",
+    "Name": "Zintle Lutseke",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "Github link": "https://zintlelutseke.github.io/Profile/",
+    "[skills]": "[C#,HTML]",
+    "[interestedlob]": "[Business Analysis, UX Design]"
+  }
+]
